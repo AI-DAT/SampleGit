@@ -1,6 +1,7 @@
 print "My First Git Program"
 print "Add Now First"
-print "Add Now Second"
 print "Another"
 print "Yet another"
-print "Another Check"
+#print "Another Check"
+# yet another
+a = 6
